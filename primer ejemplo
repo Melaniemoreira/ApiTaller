@@ -1,0 +1,13 @@
+<!Doctype HTML>
+<html>
+<title>Titulo de la pagina web</title>
+	<head>
+	<body> style="background-color:powderblue;">
+	<h1> ESTO ES UN TITULO DE Tamaño 1 </H1>
+	<h2> ESTO ES UN TITULO DE Tamaño 2</H2>
+	<h3> ESTO ES UN TITULO DE Tamaño 3 </H3>
+	<h4> ESTO ES UN TITULO DE Tamaño 4 </H4>
+	<p>  ME CAES MAL .</p>
+	</body>
+	<head>
+</html>
